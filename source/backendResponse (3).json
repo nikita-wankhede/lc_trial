@@ -1,5 +1,5 @@
 {
-  "defaultErrorMessage": "Something went wrong",
+  "defaultErrorMessage": "Something  wrong",
   "accountNotValidated": "Account is not validated",
   "accountIsDeactivated": "Account is deactivated",
   "wrongUsernameOrPassword": "Incorrect email or password. Please try again.",
