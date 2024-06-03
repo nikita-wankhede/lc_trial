@@ -1,6 +1,6 @@
 {
   "defaultErrorMessage": "Something  wrong",
-  "accountNotValidated": "Account is not validated",
+  "accountNotValidated": "Account is validated",
   "accountIsDeactivated": "Account is deactivated",
   "wrongUsernameOrPassword": "Incorrect email or password. Please try again.",
   "loginTimeout": "Login timed out",
