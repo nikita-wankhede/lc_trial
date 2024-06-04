@@ -1,11 +1,11 @@
 {
   "defaultErrorMessage": "Something  wrong",
-  "accountNotValidated": "Account is validated",
+  "accountNotValidated": "Account is not validated",
   "accountIsDeactivated": "Account is deactivated",
   "wrongUsernameOrPassword": "Incorrect email or password. Please try again.",
   "loginTimeout": "Login timed out",
   "tfaSecurityCodeWrong": "Two-factor authentication code is wrong",
-  "unspecifiedError": "An unspecified error occurred while login",
+  "unspecifiedError": "An unspecified error occurred while ",
   "tfaSecurityCodeTimeout": "Code for two-factor authentication timed out",
   "invalidCaptchaResponseToken": "Captcha response is not valid",
   "alreadyValidatedAccount": "Your account is already validated. Please sign in.",
