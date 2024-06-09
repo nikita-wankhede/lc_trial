@@ -8,7 +8,7 @@
   "unspecifiedError": "An unspecified error occurred while login",
   "tfaSecurityCodeTimeout": "Code for two-factor authentication timed out",
   "invalidCaptchaResponseToken": "Captcha response is  valid",
-  "alreadyValidatedAccount": "Your account is already validated. Please sign in.",
+  "alreadyValidatedAccount": "Your account is validated. Please sign in.",
   "invalidClientId": "The provided client ID is invalid.",
   "notFoundClientId": "Your client ID could not be found.",
   "redirectUriMismatch": "The provided redirect URI does not match with the redirect URI provided in the client ID details.",
