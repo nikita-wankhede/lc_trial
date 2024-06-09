@@ -1,7 +1,7 @@
 {
   "defaultErrorMessage": "Something went wrong",
   "accountNotValidated": "Account is not validated",
-  "accountIsDeactivated": "Account is deactivated",
+  "accountIsDeactivated": "Account deactivated",
   "wrongUsernameOrPassword": "Incorrect email or password. Please try again.",
   "loginTimeout": "Login timed out",
   "tfaSecurityCodeWrong": "Two-factor authentication code is wrong",
