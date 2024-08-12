@@ -1,11 +1,11 @@
 {
   "defaultErrorMessage": "Es stimmt etwas nicht",
-  "accountNotValidated": "Konto ist nicht validiert",
+  "accountNotValidated": "Konto wurde validiert",
   "accountIsDeactivated": "Konto ist deaktiviert",
   "wrongUsernameOrPassword": "Falsche E-Mail-Adresse oder falsches Kennwort. Bitte versuchen Sie es erneut.",
   "loginTimeout": "Timeout bei Anmeldung",
   "tfaSecurityCodeWrong": "Zwei-Faktor-Authentifizierungscode ist falsch",
-  "unspecifiedError": "Ein nicht angegebener Fehler ist aufgetreten ",
+  "unspecifiedError": "Bei der Anmeldung ist ein nicht angegebener Fehler aufgetreten",
   "tfaSecurityCodeTimeout": "Timeout bei Code für zwei-Faktor-Authentifizierung",
   "invalidCaptchaResponseToken": "CAPTCHA-Antwort ist nicht gültig",
   "alreadyValidatedAccount": "Ihr Konto wurde bereits validiert. Bitte melden Sie sich an.",
