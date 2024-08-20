@@ -1,0 +1,21 @@
+{
+  "defaultErrorMessage": "何か問題がある",
+  "accountNotValidated": "アカウントが検証されました",
+  "accountIsDeactivated": "アカウントが無効になっています",
+  "wrongUsernameOrPassword": "電子メールまたはパスワードが正しくありません。もう一度お試しください。",
+  "loginTimeout": "ログインがタイムアウトしました",
+  "tfaSecurityCodeWrong": "2要素認証コードが間違っています",
+  "unspecifiedError": "ログイン中に詳細不明なエラーが発生しました",
+  "tfaSecurityCodeTimeout": "2要素認証のコードがタイムアウトしました",
+  "invalidCaptchaResponseToken": "CAPTCHA応答が無効です",
+  "alreadyValidatedAccount": "アカウントはすでに検証されています。サインインしてください。",
+  "invalidClientId": "指定されたクライアントIDが無効です。",
+  "notFoundClientId": "クライアントIDが見つかりませんでした。",
+  "redirectUriMismatch": "指定されたリダイレクトURIが、クライアントIDの詳細で指定されたリダイレクトURIと一致しません。",
+  "redirectUriWithoutSsl": "SSL暗号化なしのリダイレクトURIは、暗黙的なフローでは許可されません。",
+  "redirectUriInvalid": "指定されたリダイレクトURIが無効です。",
+  "trialLicenseFailed": "試用ライセンスの取得に失敗しました。",
+  "requestedScopeExceedsClientScope": "有効範囲の値が無効です：このクライアントIDに設定されていない権限は要求できません。",
+  "permissionsNotAllowedImplicitGrantFlow": "このアプリは、アカウントデータへのアクセス許可を要求します。これは、認証コードフローを使用してのみ要求できます。適切なフローを使用するように開発者に通知してください。",
+  "grantAccessNotAllowed": "アクセス許可は許可されていません"
+}
